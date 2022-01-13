@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adit Hernowo</h1>
-<h3 align="center">An ordinary people who likes flutter</h3>
+<h3 align="center">An ordinary people who like flutter framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodyscar&label=Profile%20views&color=0e75b6&style=flat" alt="bloodyscar" /> </p>
 
