@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Laravel, Javascript, PHP**
 
-- 👨‍💻 All of my projects are available at [www.adithernowo.me](www.adithernowo.me)
+- 👨‍💻 All of my projects are available at [https://.adithernowo.me](www.adithernowo.me)
 
 - 💬 Ask me about **Flutter**
 
