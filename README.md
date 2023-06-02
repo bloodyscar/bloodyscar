@@ -3,7 +3,7 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodyscar&label=Profile%20views&color=0e75b6&style=flat" alt="bloodyscar" /> </p>
  
-- 🌱 I’m currently learning **Flutter, Laravel, Javascript, PHP**
+- 🌱 I’m currently learning **Kotlin, Flutter, Laravel, Javascript, PHP**
 
 - 👨‍💻 All of my projects are available at https://adithernowo.me
 
