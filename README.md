@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **Kotlin, Flutter, Laravel, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://adithernowo.me](https://adithernowo.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://adithernowo.vercel.app](https://adithernowo.vercel.app/)
 
 - 💬 Ask me about **Flutter**
 
